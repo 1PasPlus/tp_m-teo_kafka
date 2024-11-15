@@ -868,3 +868,4 @@
 [2024-11-15 09:31:33,020] INFO [GroupMetadataManager brokerId=0] Group console-consumer-50726 transitioned to Dead in generation 2 (kafka.coordinator.group.GroupMetadataManager)
 [2024-11-15 09:31:33,022] INFO [GroupMetadataManager brokerId=0] Group console-consumer-31451 transitioned to Dead in generation 2 (kafka.coordinator.group.GroupMetadataManager)
 [2024-11-15 09:31:33,022] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 5 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2024-11-15 09:41:33,017] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
